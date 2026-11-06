@@ -35,7 +35,7 @@ const supabase =
 // CONFIGURATION
 // ======================================
 
-const QR = "/images/payment-qr.svg";
+const QR = "/images/qr.jpeg";
 
 const products = [
   {
